@@ -1,0 +1,9 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_Device/do_build.xml
+/doExt_do_Device/libs/docore.jar
